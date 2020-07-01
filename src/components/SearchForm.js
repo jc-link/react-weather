@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-const API_KEY = '1dd92b8f4bf34028a2ca8a23fad6d39c'
+const API_KEY = 'insert your APPID from api.openweathermap.org'
 export class SearchForm extends Component {
     state = {
         inputCity: ''
